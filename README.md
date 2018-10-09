@@ -11,7 +11,7 @@ This repository has the complete coolstore monolith built as a Java EE 7 applica
 * OpenShift Command Client tool (eg. oc) installed locally
 * Authenticated from the command line client to the cluster
 
-        oc login <url>
+        oc login <urlofOpenShift>
 
 
 
@@ -41,11 +41,21 @@ Start the build
 
 ## Build and deploy using the binary deployment from eclipse che
 
+
+
+
+
 Import project
 
-    git clone https://github.com/santiagoangel/monolith-solution
+Version control system
 
-In terminal:
+    GIT
+    
+URL:    
+
+    https://github.com/santiagoangel/monolith-solution
+
+Open a terminal and type:
 
     cd monolith-solution
 
