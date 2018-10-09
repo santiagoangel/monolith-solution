@@ -42,7 +42,7 @@ Start the build
 ## Build and deploy using the binary deployment from eclipse che
 
 
-![Eclipse che](../img/eclipseche.png)
+![Eclipse che](./img/eclipseche.png)
 
 
 Import project
